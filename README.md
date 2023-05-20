@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Hezekiah</h1>
-<h3 align="center">A creative designer from Nigeria</h3>
+<h3 align="center">I am a Passionate product designer from Nigeria, dedicated to delivering impactful user experiences. Combining creativity and user-centric design, I strive to create intuitive and visually appealing products. With a focus on cultural relevance and inclusivity, I infuse unique perspectives into my designs. Explore my GitHub portfolio to see my innovative approach to product design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charddo&label=Profile%20views&color=0e75b6&style=flat" alt="charddo" /> </p>
 

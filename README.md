@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charddo&label=Profile%20views&color=0e75b6&style=flat" alt="charddo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_charddo" target="blank"><img src="https://img.shields.io/twitter/follow/_charddo?logo=twitter&style=for-the-badge" alt="_charddo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IamChardDo" target="blank"><img src="https://img.shields.io/twitter/follow/IamChardDo?logo=twitter&style=for-the-badge" alt="IamChardDo" /></a> </p>
 
 - 🌱 I’m currently learning **product design/figma**
 
